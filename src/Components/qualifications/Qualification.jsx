@@ -55,7 +55,7 @@ const Qualification = () => {
               <div>
                 <h3 className="qualification__title">B.Tech</h3>
                 <span className="qualification__subtitle">
-                  
+                  Indore
                 </span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> 2021 - Present
