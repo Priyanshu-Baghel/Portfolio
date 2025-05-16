@@ -117,35 +117,35 @@ const PortfolioCard = () => {
           </>
         );
 
-      // case "gate":
-      //   return (
-      //     <>
-      //       <div className="portfolio__modal-details">
-      //         <div className="detail-row">
-      //           <span className="detail-label">Score:</span>
-      //           <span className="detail-value">{item.score}</span>
-      //         </div>
-      //         <div className="detail-row">
-      //           <span className="detail-label">Percentile:</span>
-      //           <span className="detail-value">{item.percentile}</span>
-      //         </div>
-      //         <div className="detail-row">
-      //           <span className="detail-label">Experience:</span>
-      //           <span className="detail-value">{item.experience}</span>
-      //         </div>
-      //       </div>
-      //       <div className="portfolio__modal-actions">
-      //         <a
-      //           href={item.scorecardLink}
-      //           className="portfolio__modal-button"
-      //           target="_blank"
-      //           rel="noopener noreferrer"
-      //         >
-      //           <i className="uil uil-file-download"></i> View Scorecard
-      //         </a>
-      //       </div>
-      //     </>
-      //   );
+      case "gate":
+        return (
+          <>
+            <div className="portfolio__modal-details">
+              <div className="detail-row">
+                <span className="detail-label">Score:</span>
+                <span className="detail-value">{item.score}</span>
+              </div>
+              <div className="detail-row">
+                <span className="detail-label">Percentile:</span>
+                <span className="detail-value">{item.percentile}</span>
+              </div>
+              <div className="detail-row">
+                <span className="detail-label">Experience:</span>
+                <span className="detail-value">{item.experience}</span>
+              </div>
+            </div>
+            <div className="portfolio__modal-actions">
+              <a
+                href={item.scorecardLink}
+                className="portfolio__modal-button"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="uil uil-file-download"></i> View Scorecard
+              </a>
+            </div>
+          </>
+        );
 
       case "research":
         return (
