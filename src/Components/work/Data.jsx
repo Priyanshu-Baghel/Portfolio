@@ -174,7 +174,7 @@ export const projectsData = [
 export const hackathonsData = [
   {
     id: 1,
-    image: SihWinner,
+    image: "",
     category: "hackathons",
     description:
       "Developed Hexa-D - Online integrated platform for projects taken up by the students of various universities/colleges",
