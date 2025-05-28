@@ -43,6 +43,7 @@ import Proj6 from "../../assets/projects/proj6.png";
 import Proj7 from "../../assets/projects/proj7.png";
 import Proj8 from "../../assets/projects/proj8.png";
 import Github from "../../assets/github.png";
+import SIH from "../../assets/Sih.jpg"
 
 
 export const projectsNav = [
@@ -58,9 +59,9 @@ export const projectsNav = [
   {
     name: "Certificates",
   },
-  // {
-  //   name: "GATE",
-  // },
+  {
+    name: "GATE",
+  },
   {
     name: "Research Papers",
   },
@@ -174,7 +175,7 @@ export const hackathonsData = [
   {
     id: 1,
     image:
-      "https://media.licdn.com/dms/image/v2/D4D2DAQHAPkv_dV-CxQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1704798395160?e=1749034800&v=beta&t=GYkN_ZvX_ytSES4BIyIoy7I5oPlate-4BfL-ofNbw2M",
+      SIH,
     category: "hackathons",
     description:
       "Developed Hexa-D - Online integrated platform for projects taken up by the students of various universities/colleges",
