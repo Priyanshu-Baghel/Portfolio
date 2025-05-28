@@ -357,8 +357,7 @@ const PortfolioCard = () => {
                     />
                   </div>
                   <h3 className="portfolio__title">
-                    {item.title.split(" ")[0]} <br />{" "}
-                    {item.title.split(" ").slice(1).join(" ")}
+                    {item.title} <br />{" "}
                   </h3>
                   <p className="portfolio__description">{item.description}</p>
                 </div>

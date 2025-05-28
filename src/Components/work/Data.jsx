@@ -43,7 +43,7 @@ import Proj6 from "../../assets/projects/proj6.png";
 import Proj7 from "../../assets/projects/proj7.png";
 import Proj8 from "../../assets/projects/proj8.png";
 import Github from "../../assets/github.png";
-import SihWinner from "../../assets/Sih.jpg";
+import SIH from "../../assets/Sih.jpg"
 
 
 export const projectsNav = [
@@ -174,7 +174,8 @@ export const projectsData = [
 export const hackathonsData = [
   {
     id: 1,
-    image: "",
+    title: "SIH 2023 Winner",
+    image: SIH,
     category: "hackathons",
     description:
       "Developed Hexa-D - Online integrated platform for projects taken up by the students of various universities/colleges",
