@@ -322,7 +322,7 @@ const PortfolioCard = () => {
           "Projects",
           "Hackathons",
           "Certificates",
-          "GATE",
+          // "GATE",
           "Research",
           "Problem Solving",
         ].map((category) => (
