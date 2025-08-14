@@ -59,9 +59,9 @@ export const projectsNav = [
   {
     name: "Certificates",
   },
-  {
-    name: "GATE",
-  },
+  // {
+  //   name: "GATE",
+  // },
   {
     name: "Research Papers",
   },
