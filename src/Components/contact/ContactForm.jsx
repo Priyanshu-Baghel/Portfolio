@@ -73,10 +73,10 @@ const ContactForm = () => {
               <i className="bx bxl-messenger contact_card-icon"></i>
 
               <h3 className="contact__card-title">Linkedin</h3>
-              <span className="contact__card-data">priyanshu--baghel</span>
+              <span className="contact__card-data">priyanshu-works</span>
 
               <a
-                href="https://www.linkedin.com/in/priyanshu--baghel/"
+                href="https://www.linkedin.com/in/priyanshu-works/"
                 className="contact__button"
               >
                 Write me{" "}

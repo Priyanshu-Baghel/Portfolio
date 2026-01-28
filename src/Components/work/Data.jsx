@@ -5,10 +5,6 @@ import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
 import Paper from "../../assets/paper1.pdf";
 import Cp from "../../assets/cp.png";
-import CsScoreCard from "../../assets/csscore.pdf";
-import DaScoreCard from "../../assets/dascore.pdf";
-import Gate1 from "../../assets/gate1.png";
-import Gate2 from "../../assets/gate2.png";
 import SQL from "../../assets/Sql.png";
 import Wireless from "../../assets/wirelessEssentials.png"
 import Python from "../../assets/python.png"
@@ -58,9 +54,6 @@ export const projectsNav = [
   },
   {
     name: "Certificates",
-  },
-  {
-    name: "GATE",
   },
   {
     name: "Research Papers",
@@ -342,31 +335,7 @@ export const certificatesData = [
 ];
 
 // GATE Data
-export const gateData = [
-  {
-    id: 1,
-    image: Gate1,
-    title: "GATE CSE 2025",
-    category: "gate",
-    description: "Graduate Aptitude Test in Engineering - Computer Science",
-    experience: "Focused preparation on algorithms, TOC, CD, CN, OS, and DBMS",
-    scorecardLink: CsScoreCard,
-    score: "AIR 10574",
-    percentile: "443",
-  },
-  {
-    id: 2,
-    image: Gate2,
-    title: "GATE DA 2025",
-    category: "gate",
-    description:
-      "Graduate Aptitude Test in Engineering - Data Science and  Data Science and Artificial Intelligence ",
-    experience: "Focused preparation on Machine Learning, Deep Learning and AI",
-    scorecardLink: DaScoreCard,
-    score: "AIR 8014",
-    percentile: "354",
-  },
-];
+
 
 // Research Papers Data
 export const researchData = [

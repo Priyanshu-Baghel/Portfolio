@@ -5,6 +5,9 @@
     padding: 2rem 0;
 }
 
+.section__description {
+    text-align: center;
+}
 
 .infinite-slider {
     display: flex;
