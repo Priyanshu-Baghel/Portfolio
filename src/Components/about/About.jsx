@@ -1,6 +1,6 @@
 import React from 'react';
 import "./about.css";
-import AboutImg from "../../assets/profile.png";
+import AboutImg from "../../assets/try5.png";
 import CV from "../../assets/Priyanshu-CV.pdf";
 import Info from './Info';
 
