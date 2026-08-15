@@ -375,11 +375,11 @@ export const problemSolvingData = [
     category: "problem solving",
     description: "Regular practice on DSA platforms",
     platformLinks: {
-      leetcode: "https://leetcode.com/u/baghelpriyanshu2003/",
+      leetcode: "https://leetcode.com/u/codeByPriyanshu/",
       gfg: "https://geeksforgeeks.org",
     },
     stats: {
-      leetcodeSolved: "350+",
+      leetcodeSolved: "400+",
       gfgScore: "100+",
     },
   },
